@@ -1,3 +1,5 @@
+Thi is a full stack web app created using Django , Dango-rest-framework and ReactJS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
