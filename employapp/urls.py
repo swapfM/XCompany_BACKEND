@@ -11,7 +11,7 @@ urlpatterns=[
     path('employee',views.employAPI),
     path('employee/<int:id>', views.employAPI),
 
-    path('employee/SaveFile', views.SaveFile)
+    path('Employee/SaveFile', views.SaveFile)
 
 
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
